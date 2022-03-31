@@ -1,0 +1,22 @@
+.feedItem{
+    margin-top: 10px;
+    width: 400px;
+    height: 100px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    border :2px solid #90e0ef;
+    border-radius: 5px;
+}
+.FeedText{
+    padding: 0px;
+    margin-top: 0px;
+    margin-left: 15px;
+    color:#03045e;
+}
+.gif{
+    width: 70px;
+    height: 70px;
+    margin-right: 10px;
+}
